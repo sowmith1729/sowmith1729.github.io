@@ -397,16 +397,25 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-some-annoucement",
-          title: 'Some annoucement',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/news/announcement_6/";
+            },},{id: "news-transferred-from-uab-to-wsu-to-continue-my-phd-in-harp-lab-under-thomas-gilray",
+          title: 'Transferred from UAB to WSU to continue my PhD in HARP Lab under...',
+          description: "",
+          section: "News",},{id: "news-attended-programming-languages-mentoring-workshop-plmw-splash24-thank-you-organizers-for-setting-up-a-wonderful-program-to-help-realize-the-breadth-of-pl-research-and-give-a-change-to-interact-with-profs-working-on-a-variety-of-problems",
+          title: 'Attended Programming Languages Mentoring Workshop PLMW@SPLASH24. Thank you organizers for setting up a...',
+          description: "",
+          section: "News",},{id: "news-presented-harp-s-published-datalog-on-gpu-work-at-minnowbrook-logic-programming-seminar-and-some-work-in-progress-along-with-future-work-the-session-is-recorded-and-my-talk-is-here",
+          title: 'Presented HARP’s published Datalog on GPU work at Minnowbrook Logic Programming Seminar, and...',
+          description: "",
+          section: "News",},{id: "news-completed-my-qualifying-examination-first-step-towards-phd-surveyed-optimal-joins-and-suitability-for-acceleration-using-gpus-focused-on-acyclic-optimal-joins-using-diamond-hardened-joins-and-proposed-ideas-to-simplify-implementing-wcoj-on-gpu-compared-to-sota",
+          title: 'Completed my qualifying examination(first step towards PhD), surveyed optimal joins, and suitability for...',
+          description: "",
+          section: "News",},{id: "news-participated-in-network-for-science-workshop-hosted-by-berkeley-labs-to-present-akash-s-poster-on-iterative-parallel-matrix-exponentiation-got-to-chat-with-ariful-azad-about-combblas-and-see-many-other-exciting-works-in-the-realm-of-graphs",
+          title: 'Participated in Network for Science workshop hosted by Berkeley Labs to present Akash’s...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
