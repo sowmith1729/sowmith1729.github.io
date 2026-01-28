@@ -9,14 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-            <blockquote style="margin:0;padding:10px 18px;border-left:4px solid #19b6c3;background:#1f1f1f;color:#eaeaea;max-width:420px;">
+            <blockquote style="margin:0;padding:10px 18px;border-left:4px solid #19b6c3;max-width:420px;">
               <p style="margin:0;font-size:0.68em;line-height:1.5;">
                 కర్మణ్యేవాధికారస్తే మా ఫలేషు కదాచన<br>
                 మా కర్మఫలహేతుర్భూర్మా తే సంగోస్త్వకర్మణి 
               </p>
 
               <p style="margin:10px 0 0 0;font-size:0.65em;opacity:0.85;">
-                — <em>భగవద్గీత</em> 2.47
+                <a href="https://www.holy-bhagavad-gita.org/chapter/2/verse/47/">
+                  — <em>Bhagavad Gītā</em> 2.47
+                </a>
               </p>
             </blockquote>
 selected_papers: true # includes a list of papers marked as "selected={true}"
