@@ -57,5 +57,5 @@ connection between them.
 Always looking to chat with people, who have interests in high performance
 applications, databases or graphs. Please feel to reach out to my email.
 
-I am looking for an internship this summer(26), if you have something that
-matches my interests, please reach out, I'd be excited to chat.
+<!-- I am looking for an internship this summer(27), if you have something that -->
+<!-- matches my interests, please reach out, I'd be excited to chat. -->
