@@ -58,7 +58,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_6/";
+              window.location.href = "/news/announcement_0/";
             },},{id: "news-transferred-from-uab-to-wsu-to-continue-my-phd-in-harp-lab-under-thomas-gilray",
           title: 'Transferred from UAB to WSU to continue my PhD in HARP Lab under...',
           description: "",
@@ -73,6 +73,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-participated-in-network-for-science-workshop-hosted-by-berkeley-labs-to-present-akash-s-poster-on-iterative-parallel-matrix-exponentiation-got-to-chat-with-ariful-azad-about-combblas-and-see-many-other-exciting-works-in-the-realm-of-graphs",
           title: 'Participated in Network for Science workshop hosted by Berkeley Labs to present Akash’s...',
+          description: "",
+          section: "News",},{id: "news-starting-at-relational-ai-as-an-intern-this-summer-i-ll-be-working-on-their-logic-engine-we-are-still-figuring-out-the-details-looking-forward-to-learning-and-doing-some-cool-database-graphs-stuff",
+          title: 'Starting at relational.ai as an intern this summer, I’ll be working on their...',
           description: "",
           section: "News",},{
         id: 'social-cv',
