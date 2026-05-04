@@ -77,6 +77,9 @@ ninja.data = [{
           section: "News",},{id: "news-starting-at-relational-ai-as-an-intern-this-summer-i-ll-be-working-on-their-logic-engine-we-are-still-figuring-out-the-details-looking-forward-to-learning-and-doing-some-cool-database-graphs-stuff",
           title: 'Starting at relational.ai as an intern this summer, I’ll be working on their...',
           description: "",
+          section: "News",},{id: "news-ran-mostly-walked-my-first-race-at-bloomsday-it-was-weird-running-so-i-just-walked-but-people-running-seem-to-enjoy-it-may-be-i-just-need-to-run-a-little-anyways-fun-experience-thanks-to-ananth-kirti-tazin-akash-and-lab-mates-at-wsu",
+          title: 'Ran(mostly walked) my first race at Bloomsday. It was weird running so I...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
