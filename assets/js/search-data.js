@@ -80,6 +80,9 @@ ninja.data = [{
           section: "News",},{id: "news-ran-mostly-walked-my-first-race-at-bloomsday-it-was-weird-running-so-i-just-walked-but-people-running-seem-to-enjoy-it-may-be-i-just-need-to-run-a-little-anyways-fun-experience-thanks-to-ananth-kirti-tazin-akash-and-lab-mates-at-wsu",
           title: 'Ran(mostly walked) my first race at Bloomsday. It was weird running so I...',
           description: "",
+          section: "News",},{id: "news-completed-my-internship-at-relational-ai-mid-august-set-up-the-gpu-execution-engine-for-rel-s-logic-engine-though-was-able-to-get-coverage-support-for-queries-down-the-performance-is-not-yet-there-so-staying-on-as-part-of-their-research-network-doing-performance-work-for-the-engine-thanks-to-niko-and-prof-lumsdaine-for-helping-throughout-excited-to-continue-the-work-as-we-get-the-performance-closer-to-sota-recursive-query-evaluation-on-the-gpu-cuda",
+          title: 'Completed my internship at relational.ai mid August, set-up the GPU execution engine for...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
