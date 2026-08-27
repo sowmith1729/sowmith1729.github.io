@@ -35,7 +35,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am SowmithK, a 2nd year PhD student in High-Performance Automated
+I am SowmithK, a 3nd year PhD student in High-Performance Automated
 Reasoning([HARP](harp-lab.com)) Lab under [Thomas
 Gilray](https://thomas.gilray.org/). Working on accelerating logical reasoning
 using GPUs. Current project involves building a GPU execution engine for
