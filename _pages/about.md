@@ -16,7 +16,7 @@ profile:
               </p>
 
               <p style="margin:10px 0 0 0;font-size:0.65em;opacity:0.85;">
-                <a href="https://www.holy-bhagavad-gita.org/chapter/2/verse/47/">
+                <a href="/assets/txt/gita-2-47.txt">
                   — <em>Bhagavad Gītā</em> 2.47
                 </a>
               </p>
